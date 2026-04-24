@@ -6,10 +6,10 @@ An automated Document Management System (DMS) for **PG Studios** to manage large
 ## Core Features
 * **NAS Indexing & Search:** Scanning and organizing files for quick retrieval.
 * **Smart File Management:** Automated renaming and project template creation.
-* **AI Command Center:** Executing tasks via natural language (as per the latest meeting).
+* **AI Command Center:** Executing tasks via natural language.
 
-## Tech Stack (Updated)
-* **Backend:** Python (The core language specified)
-* **Frontend:** Streamlit (The primary dashboard tool mentioned)
-* **Database:** SQLite (Agreed upon in the latest meeting for metadata)
+## Tech Stack
+* **Backend:** Python 
+* **Frontend:** Streamlit 
+* **Database:** SQLite 
 * **AI:** OpenAI API integration
